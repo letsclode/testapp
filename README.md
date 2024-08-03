@@ -9,17 +9,21 @@ if the design pass, I proceed in adding bussiness logic. Finish v1 test ,develop
 
 I can decide the UI/UX design as long as our app is not complex..
 
+## Resources
+https://drive.google.com/drive/folders/120zmXUWCW8ONVnt_Wu4zSWzgU1fwdpqv?usp=drive_link
+
+## VEDIO SAMPLE
+[![here]([https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link])](https://youtu.be/xTJLAxPvNuI)](https://youtu.be/xTJLAxPvNuI)
+
 ### Back end approach
 Our c# back end should offer:
 - Authentication
 - Manage Images (here we may use 3rd party library to store our images depends...)
 - Manage Dates(im not sure yet how the calendar will be used)
 
-
 ### Flutter Front end
 Folder structur will be 'Feature base'
 # ![How it looks](https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link)
-# Here I decided to use Very Good CLI it offers lot of values written below:
 
 ## PACKAGES
 dependencies:
@@ -41,13 +45,8 @@ bottom navigation docs: https://medium.com/@davidecarizzoni/flutter-bottom-navig
     Provides tools to work with the cameras on the device.
     - https://docs.flutter.dev/cookbook/plugins/picture-using-camera
 
-## Resources
-https://drive.google.com/drive/folders/120zmXUWCW8ONVnt_Wu4zSWzgU1fwdpqv?usp=drive_link
-
-## VEDIO SAMPLE
-[![here]([https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link])](https://youtu.be/xTJLAxPvNuI)](https://youtu.be/xTJLAxPvNuI)
-
-
+Here I decided to use Very Good CLI it offers lot of values written below:
+## Very Good CLI
 ![coverage][coverage_badge]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
@@ -222,4 +221,3 @@ Alternatively, run `flutter run` and code generation will take place automatical
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
 [very_good_cli_link]: https://github.com/VeryGoodOpenSource/very_good_cli
-# testapp
