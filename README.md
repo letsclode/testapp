@@ -12,8 +12,10 @@ I can decide the UI/UX design as long as our app is not complex..
 ## Resources
 https://drive.google.com/drive/folders/120zmXUWCW8ONVnt_Wu4zSWzgU1fwdpqv?usp=drive_link
 
-## VEDIO SAMPLE
-[![here]([https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link])](https://youtu.be/xTJLAxPvNuI)](https://youtu.be/xTJLAxPvNuI)
+
+## VIDEO SAMPLE
+[![here](https://img.youtube.com/vi/xTJLAxPvNuI/0.jpg)](https://youtu.be/xTJLAxPvNuI)
+
 
 ### Back end approach
 Our c# back end should offer:
