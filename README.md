@@ -22,8 +22,8 @@ Our c# back end should offer:
 - Manage Dates(im not sure yet how the calendar will be used)
 
 ### Flutter Front end
-Folder structur will be 'Feature base'
-# ![How it looks]([https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link](https://drive.google.com/file/d/1ZxxvOuheGgkMYwy4_O_J9WDsV3h5qble/view?usp=sharing])
+# Feature-based Folder Structure
+![How it looks](https://drive.google.com/uc?export=view&id=1ZxxvOuheGgkMYwy4_O_J9WDsV3h5qble)
 
 ## PACKAGES
 dependencies:
