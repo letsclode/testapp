@@ -45,8 +45,8 @@ bottom navigation docs: https://medium.com/@davidecarizzoni/flutter-bottom-navig
     - https://docs.flutter.dev/cookbook/plugins/picture-using-camera
 
 
-
-[![Vedio Sample](https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link)](https://youtu.be/xTJLAxPvNuI)
+## VEDIO SAMPLE
+[![here]([https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link])](https://youtu.be/xTJLAxPvNuI)](https://youtu.be/xTJLAxPvNuI)
 
 
 ![coverage][coverage_badge]
