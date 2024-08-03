@@ -15,8 +15,6 @@ class GalleryBloc extends Bloc<GalleryEvent, GalleryState> {
     emit(GalleryLoading());
     // Load images logic here
     // For demonstration, let's assume images is a list of ImageModel
-
-
     List<String> storedImagesPath = await cameraRepository.getAll();
     final images = storedImagesPath.isNotEmpty ? <ImageModel>[...storedImagesPath.map((imagePath) => ImageModel(path: imagePath))] : <ImageModel>[]; // Replace with actual loading logic
     emit(GalleryLoaded(images: images));

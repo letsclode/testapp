@@ -9,16 +9,17 @@ if the design pass, I proceed in adding bussiness logic. Finish v1 test ,develop
 
 I can decide the UI/UX design as long as our app is not complex..
 
-Our c# back end should offer
--Authentication
--Manage Images (here we may use 3rd party library to store our images depends...)
--Manage Dates(im not sure yet how the calendar will be used)
+### Back end approach
+Our c# back end should offer:
+# Authentication
+# Manage Images (here we may use 3rd party library to store our images depends...)
+# Manage Dates(im not sure yet how the calendar will be used)
 
 
 ### Flutter Front end
 Folder structur will be 'Feature base'
-- image here
-Here I decided to use Very Good CLI it offers lot of values written below:
+# ![How it looks](https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link)
+# Here I decided to use Very Good CLI it offers lot of values written below:
 
 APK: 
 Github link:
@@ -42,6 +43,10 @@ bottom navigation docs: https://medium.com/@davidecarizzoni/flutter-bottom-navig
 - camera docs
     Provides tools to work with the cameras on the device.
     - https://docs.flutter.dev/cookbook/plugins/picture-using-camera
+
+
+
+[![Vedio Sample](https://drive.google.com/file/d/1qUZ9mVYG6J6XbIJFQFjlj0FR8mbFWEf4/view?usp=drive_link)](https://youtu.be/xTJLAxPvNuI)
 
 
 ![coverage][coverage_badge]
